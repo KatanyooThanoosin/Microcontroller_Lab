@@ -1,7 +1,7 @@
 /* USER CODE BEGIN PV */
 	char init[] = "Display Blinking LED PRESS (1, 2)\n\rDisplay Group Members PRESS m\n\rQuit PRESS q\n\r";
 	char inp[] = "\tInput =>";
-	char m[] = "64010001\n\rKatanyoo Thanoosin\n\r64010017\n\rKittayot Sangngam\n\r";
+	char m[] = "64010001\n\rKatanyoo Thanoosin\n\r64010017\n\rKittayot Sangngam\n\r64010309\n\rThanakan Kanphairor\n\r";
 	char quit[] = "Quit";
 	char uc[] = "Unknown Command\n\r";
 	char td[3] =" \n\r";
