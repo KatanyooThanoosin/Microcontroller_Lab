@@ -68,4 +68,4 @@
 		  while(__HAL_UART_GET_FLAG(&huart3,UART_FLAG_TC)==RESET){}
 		  HAL_UART_Transmit(&huart3, (uint8_t*) uc, strlen(uc),1000);
 	  }
-	/* USER CODE END 3 */
+/* USER CODE END 3 */
